@@ -1,6 +1,7 @@
 #AdMob
 google.com, pub-1039664460889148, DIRECT, f08c47fec0942fa0
 #AdColony
+adcolony.com, ffb5089b0c149605bc2aadac6793a687, DIRECT, 1ad675c9de6b5176
 #Applovin
 applovin.com, e6fd9985db1e28289230d4f889c5cbba, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
